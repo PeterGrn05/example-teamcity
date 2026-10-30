@@ -16,6 +16,6 @@ public class Welcomer{
 		return "something in the way";
 	}
 	public String addReply(){
-		return "Hello, good hunter. I am a doll. Here in this dream to look after you."
+		return "Hello, good hunter. I am a doll. Here in this dream to look after you.";
 	}
 }
